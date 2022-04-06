@@ -3,10 +3,10 @@
 	<Transactions>
     <Transaction>2022/03/22 13:42:36.000.838,=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/03/24 11:38:28.000.987,=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/04/04 12:17:09.123,=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/04/04 12:18:23.023,C:\Users\Gabriel\Desktop\ChuteUmNúmero\UnitPrincipal.dfm=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/04/04 12:18:23.023,C:\Users\Gabriel\Desktop\ChuteUmNúmero\UnitPrincipal.pas=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/04/04 13:19:19.713,C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\ProjectJogoChuteUmNúmero.dproj=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2022/04/04 13:19:47.438,C:\Users\Gabriel\Desktop\ChuteUmNúmero\ProjectJogoChuteUmNúmero.dproj=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\ProjectJogoChuteUmNúmero.dproj</Transaction>
+    <Transaction>2022/04/04 12:17:09.000.123,=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/04 12:18:23.000.023,C:\Users\Gabriel\Desktop\ChuteUmNúmero\UnitPrincipal.dfm=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/04 12:18:23.000.023,C:\Users\Gabriel\Desktop\ChuteUmNúmero\UnitPrincipal.pas=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/04 13:19:19.000.713,C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\ProjectJogoChuteUmNúmero.dproj=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/04 13:19:47.000.438,C:\Users\Gabriel\Desktop\ChuteUmNúmero\ProjectJogoChuteUmNúmero.dproj=C:\Users\Gabriel\Documents\Embarcadero\Studio\Projects\ProjectJogoChuteUmNúmero.dproj</Transaction>
   </Transactions>
 </BorlandProject>

@@ -1,9 +1,10 @@
 ﻿object FormPrincipal: TFormPrincipal
   Left = 0
   Top = 0
+  BorderStyle = bsDialog
   Caption = 'Jogo chute um n'#250'mero'
-  ClientHeight = 378
-  ClientWidth = 584
+  ClientHeight = 278
+  ClientWidth = 489
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -11,6 +12,7 @@
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
+  OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
   object LabelTítulo: TLabel
@@ -34,7 +36,7 @@
     Caption = 
       'N'#243's selecionamos um n'#250'mero aleat'#243'rio entre 1 e 100. Veja se cons' +
       'egue adivinhar em 10 chances ou menos. N'#243's lhe diremos se seu ch' +
-      'ute foi muito alto ou muito baixo.'
+      'ute foi  alto ou baixo.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -13
@@ -106,5 +108,6 @@
     Height = 25
     Caption = 'Chutar'
     TabOrder = 1
+    OnClick = ButtonChutarClick
   end
 end
